@@ -11,3 +11,7 @@ node_modules/
 # http-client-csharp emitter artifacts
 Configuration.json
 tspCodeModel.json
+
+# artifacts
+sdk/src/bin*
+sdk/src/obj*

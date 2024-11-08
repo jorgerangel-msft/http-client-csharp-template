@@ -5,14 +5,12 @@
   "peerDependencies": {
     "@typespec/compiler": "latest",
     "@typespec/http": "latest",
-    "@typespec/openapi3": "latest",
     "@typespec/rest": "latest"
   },
   "devDependencies": {
     "@typespec/compiler": "latest",
     "@typespec/http": "latest",
-    "@typespec/http-client-csharp": "^0.1.9-alpha.20241107.1",
-    "@typespec/openapi3": "latest",
+    "@typespec/http-client-csharp": "latest",
     "@typespec/rest": "latest"
   },
   "private": true
