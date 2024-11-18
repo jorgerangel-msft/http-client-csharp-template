@@ -11,7 +11,8 @@
     "@typespec/compiler": "latest",
     "@typespec/http": "latest",
     "@typespec/http-client-csharp": "latest",
-    "@typespec/rest": "latest"
+    "@typespec/rest": "latest",
+    "@typespec/versioning": "^0.62.0"
   },
   "private": true
 }
