@@ -8,11 +8,11 @@
     "@typespec/rest": "latest"
   },
   "devDependencies": {
+    "@azure-tools/typespec-csharp": "^0.2.0-beta.20241211.2",
     "@typespec/compiler": "latest",
     "@typespec/http": "latest",
-    "@typespec/http-client-csharp": "latest",
     "@typespec/rest": "latest",
-    "@typespec/versioning": "^0.62.0"
+    "@typespec/versioning": "latest"
   },
   "private": true
 }

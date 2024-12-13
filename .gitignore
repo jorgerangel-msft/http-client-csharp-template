@@ -15,3 +15,4 @@ tspCodeModel.json
 # artifacts
 sdk/src/bin*
 sdk/src/obj*
+sdk/.vs*
