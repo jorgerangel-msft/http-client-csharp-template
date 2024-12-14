@@ -2,9 +2,4 @@ emit:
   - "@azure-tools/typespec-csharp"
 options:
   "@azure-tools/typespec-csharp":
-    emitter-output-dir: "{project-root}/sdk"
-    disable-xml-docs: true
-    save-inputs: true
     flavor: azure
-    clear-output-folder: true
-    new-project: true

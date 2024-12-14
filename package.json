@@ -2,17 +2,13 @@
   "name": "http-client-csharp-template",
   "version": "0.1.0",
   "type": "module",
-  "peerDependencies": {
+  "dependencies": {
     "@typespec/compiler": "latest",
-    "@typespec/http": "latest",
-    "@typespec/rest": "latest"
-  },
-  "devDependencies": {
-    "@azure-tools/typespec-csharp": "^0.2.0-beta.20241211.2",
-    "@typespec/compiler": "latest",
-    "@typespec/http": "latest",
     "@typespec/rest": "latest",
-    "@typespec/versioning": "latest"
+    "@typespec/http": "latest",
+    "@azure-tools/typespec-azure-core": "latest",
+    "@azure-tools/typespec-csharp": "latest",
+    "@azure-tools/typespec-python": "latest"
   },
   "private": true
 }
